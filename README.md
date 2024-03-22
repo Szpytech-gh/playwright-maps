@@ -22,3 +22,6 @@ After the tests are done results can be found in:
 - ```./playwright-report``` to see html report
 - ```./test-results``` to see videos
 - ```./test-results.json``` to see json results
+
+## relevant tests
+All relevant tests are in file ``` google-maps.spec.ts ```.
